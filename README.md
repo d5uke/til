@@ -1,4 +1,4 @@
-# study
+# til
 
 ## About
 This is the repository for my personal study.
